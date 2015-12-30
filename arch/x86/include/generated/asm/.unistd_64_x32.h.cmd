@@ -1,1 +1,0 @@
-cmd_arch/x86/syscalls/../include/generated/asm/unistd_64_x32.h := /bin/bash '/2p/aosp/basti/RIDGE-4G_LL_OpenSource/kernel/arch/x86/syscalls/syscallhdr.sh' '/2p/aosp/basti/RIDGE-4G_LL_OpenSource/kernel/arch/x86/syscalls/syscall_64.tbl' 'arch/x86/syscalls/../include/generated/asm/unistd_64_x32.h' 'x32' 'x32_' ''
